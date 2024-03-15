@@ -1,0 +1,7 @@
+C:\Users\danielmieleniewski\source\repos\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.exe.config
+C:\Users\danielmieleniewski\source\repos\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.exe
+C:\Users\danielmieleniewski\source\repos\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.pdb
+C:\Users\danielmieleniewski\source\repos\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.csprojAssemblyReference.cache
+C:\Users\danielmieleniewski\source\repos\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danielmieleniewski\source\repos\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.exe
+C:\Users\danielmieleniewski\source\repos\ConsoleAppArrayAssignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.pdb
